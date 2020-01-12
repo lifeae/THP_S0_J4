@@ -1,14 +1,26 @@
+h2
+{
+  margin-top: 5vh;
+}
+
 .jumbotron-fluid
 {
   background-image: url(1.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  height: 50vh;
+  height: 60vh;
+  color: white;
 }
 
 .card-img-top
 {
   object-fit: cover;
   height: 40vh;
+}
+
+footer
+{
+  color: grey;
+  margin-left: 10vh;
 }
