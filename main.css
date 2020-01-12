@@ -6,3 +6,9 @@
   background-repeat: no-repeat;
   height: 50vh;
 }
+
+.card-img-top
+{
+  object-fit: cover;
+  height: 40vh;
+}
